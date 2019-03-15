@@ -1,2 +1,6 @@
+github.com/ChinmayR/gomodplayground v0.0.0-20190315065232-8c25f668e2ee h1:0yEJGKFwkq6tzgEsFn0R1FIDwtWT9Tm8ID76U2g1ONc=
+github.com/ChinmayR/gomodplayground v0.0.0-20190315065232-8c25f668e2ee/go.mod h1:tPSHTLYkVBVzoFHUf0umvHBl4MaK+UCGti7Q7knwnr8=
+github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
+github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/jessevdk/go-flags v1.4.0 h1:4IU2WS7AumrZ/40jfhf4QVDMsQwqA7VEHozFRrGARJA=
 github.com/jessevdk/go-flags v1.4.0/go.mod h1:4FA24M0QyGHXBuZZK/XkWh8h0e1EYbRYJSGM75WSRxI=

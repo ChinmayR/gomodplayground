@@ -3,6 +3,9 @@ package gopkg1
 import (
 	"fmt"
 
+	"github.com/ChinmayR/gomodplayground/gopkg2"
+
+	"github.com/davecgh/go-spew/spew"
 	"github.com/jessevdk/go-flags"
 )
 
@@ -23,4 +26,6 @@ func PrintPkg1Behavior() {
 	}
 
 	fmt.Println("Hello from pkg1 got msgs: " + opts.Message)
+	gopkg2.PrintPkg2Behavior()
+	spew.Dump("Hello from pkg1 using spew")
 }
